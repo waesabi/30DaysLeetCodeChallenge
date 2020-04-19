@@ -31,4 +31,13 @@ public class MinimumPathSum {
         return dp[rows - 1][cols - 1];
     }
 
+    public int findNumbers(int[] nums) {
+        int count = 0;
+        for(int i = 0; i < nums.length; i++) {
+            int digitCount = (int) Math.floor(Math.log10(nums[i]));
+            if(digitCount % 2 == 0) { count++; }
+        }
+        return count;
+    }
+
 }

@@ -1,4 +1,4 @@
-package com.company.Day20;
+package com.company;
 import com.company.TreeNode;
 
 import java.util.Arrays;

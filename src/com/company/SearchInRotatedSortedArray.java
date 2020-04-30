@@ -1,4 +1,4 @@
-package com.company.Day19;
+package com.company;
 
 public class SearchInRotatedSortedArray {
 

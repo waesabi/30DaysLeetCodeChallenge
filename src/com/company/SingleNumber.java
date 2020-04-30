@@ -1,4 +1,4 @@
-package com.company.Day1;
+package com.company;
 
 public class SingleNumber {
 

@@ -1,4 +1,4 @@
-package com.company.Day3;
+package com.company;
 
 public class MaximumSubarray {
 

@@ -1,4 +1,4 @@
-package com.company.Day12;
+package com.company;
 
 import java.util.Arrays;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package com.company.Day14;
+package com.company;
 
 public class PerformStringShifts {
 

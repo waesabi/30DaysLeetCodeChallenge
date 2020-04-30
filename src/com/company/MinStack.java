@@ -1,4 +1,4 @@
-package com.company.Day10;
+package com.company;
 
 import java.util.ArrayList;
 import java.util.Stack;

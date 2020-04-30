@@ -1,4 +1,4 @@
-package com.company.Day2;
+package com.company;
 
 import java.util.HashMap;
 import java.util.HashSet;

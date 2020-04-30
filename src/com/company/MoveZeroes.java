@@ -1,4 +1,4 @@
-package com.company.Day4;
+package com.company;
 
 public class MoveZeroes {
 

@@ -1,4 +1,4 @@
-package com.company.Day15;
+package com.company;
 
 public class ProductOfArrayExceptSelf {
 

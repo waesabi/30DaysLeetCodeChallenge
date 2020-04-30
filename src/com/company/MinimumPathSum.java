@@ -1,4 +1,4 @@
-package com.company.Day18;
+package com.company;
 
 public class MinimumPathSum {
 

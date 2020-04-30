@@ -1,4 +1,4 @@
-package com.company.Day8;
+package com.company;
 
 public class ListNode {
     int val;

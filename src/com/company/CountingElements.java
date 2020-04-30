@@ -1,4 +1,4 @@
-package com.company.Day7;
+package com.company;
 
 public class CountingElements {
 
